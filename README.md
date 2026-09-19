@@ -1,102 +1,100 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kunal20-sus/kunal20-sus/main/assets/spiderman-hanging.gif" width="190" alt="Spider-Man Hanging From Web"/>
+<img src="./assets/spiderman-hanging.gif" width="160" alt="Spider-Man Hanging From Web"/>
 
-# 🕷️ Hi, I'm Kunal Kumar! 🕸️
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:C41E1E,100:1B3A8C&height=220&section=header&text=Kunal%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Your%20Friendly%20Neighborhood%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-### *"With great code comes great responsibility."*
-
-<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-red?style=for-the-badge" alt="status"/>
-<img src="https://img.shields.io/badge/Role-Developer-black?style=for-the-badge" alt="role"/>
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-crimson?style=for-the-badge" alt="focus"/>
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge" alt="made with love"/>
+<a href="https://github.com/kunal20-sus">
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=30&duration=3000&pause=1000&color=C41E1E&center=true&vCenter=true&width=650&lines=With+great+code...;comes+great+responsibility.;B.Tech+CSE+%40+SRMIST;Building%2C+learning%2C+swinging+forward." alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-## 🕸️ Origin Story (About Me)
+### 🕷️ About Me
+
+```yaml
+name: Kunal Kumar
+role: B.Tech CSE Student @ SRMIST Kattakulathur, Chennai
+batch: 2025 - 2029
+origin: Samastipur, Bihar
+alter_ego: Class Representative, NSO Member & Aspiring Consultant
+```
 
 <table>
   <tr>
-    <td width="72%" valign="top">
-      <p>
-        Passionate developer swinging across lines of code, crafting clean solutions, and constantly leveling up my software engineering skills. Always ready to build, debug, and solve real-world problems.
-      </p>
+    <td width="75%" valign="top">
       <ul>
-        <li>🕷️ <b>Software Development</b> — Crafting clean, efficient, and maintainable code.</li>
-        <li>🌆 <b>Problem Solving</b> — Tackling complex challenges and building real-world projects.</li>
-        <li>🎯 <b>Continuous Learning</b> — Exploring new technologies, frameworks, and modern architecture.</li>
-        <li>🛡️ <b>Open Source & Collaboration</b> — Believer in peer learning and community-driven development.</li>
+        <li>🎓 B.Tech CSE student at <b>SRMIST Kattakulathur</b>, Chennai</li>
+        <li>🏛️ Serving as <b>Class Representative</b> and <b>NSO member</b> on campus</li>
+        <li>📊 Business Analyst track member at <b>180 Degrees Consulting, SRM IST KTR</b></li>
+        <li>🤝 Member of <b>Cintel Association</b> (Corporate domain)</li>
+        <li>🛠️ Volunteer with <b>DSA SRMIST</b> (Discipline domain) & <b>SRM Alumni Affairs</b> (Sponsorship/PR)</li>
+        <li>🌱 Currently sharpening DSA, development skills, and consulting fundamentals</li>
+        <li>⚡ Fun fact: every <code>git push</code> feels like swinging between skyscrapers</li>
       </ul>
     </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/kunal20-sus/kunal20-sus/main/assets/spiderman-swinging.gif" width="160" alt="Spider-Man Using Webs"/>
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/spiderman-swinging.gif" width="140" alt="Spider-Man Web-Slinging" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🧰 Tech Web
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Stats from the Web
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunal20-sus&show_icons=true&theme=radical&hide_border=true" alt="Kunal's GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=kunal20-sus&show_icons=true&theme=red&hide_border=true&bg_color=0D1117&title_color=C41E1E&icon_color=C41E1E&text_color=ffffff" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=kunal20-sus&theme=red&hide_border=true&background=0D1117&ring=C41E1E&fire=C41E1E&currStreakLabel=C41E1E" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal20-sus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunal20-sus&layout=compact&theme=red&hide_border=true&bg_color=0D1117&title_color=C41E1E&text_color=ffffff" width="48%" />
 
 </div>
 
 ---
 
-## 🕸️ Missions & Roadmap
+<!-- Note: github-profile-trophy is currently disabled on Vercel upstream; uncomment if service returns
+### 🕸️ GitHub Trophies
 
-- [x] Master core programming fundamentals & Object-Oriented Programming (OOP)
-- [x] Build interactive applications & desktop/web utilities
-- [ ] Deep dive into Data Structures & Algorithms
-- [ ] Build and deploy full-stack web applications
-- [ ] Contribute to impactful open-source repositories
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=kunal20-sus&theme=dracula&no-frame=true&row=1&column=6&title=Commits,Stars,Repositories,Followers,PullRequest,Issues" />
 
-## 🤝 Let's Connect
-
-Every hero needs backup! Whether you want to collaborate on a project, talk tech, or share ideas:
-
-- 📧 **Email:** [kunallynx20@gmail.com](mailto:kunallynx20@gmail.com)
-- 🐙 **GitHub:** [@kunal20-sus](https://github.com/kunal20-sus)
-- 💼 **LinkedIn:** [Kunal Kumar](https://linkedin.com)
+</div>
 
 ---
+-->
 
-## 📜 License
+### 🌆 Connect With Me
 
-This profile repository is open-sourced under the [MIT License](LICENSE).
+<div align="center">
+
+<a href="https://linkedin.com/in/kunal-kumar-76b078267"><img src="https://img.shields.io/badge/LinkedIn-1B3A8C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kunallynx20@gmail.com"><img src="https://img.shields.io/badge/Email-C41E1E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### *"It's not who I am underneath, but what I code that defines me."*
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1B3A8C,100:C41E1E&height=120&section=footer" width="100%"/>
 
-⭐ **Thanks for swinging by! Drop a star if you enjoyed visiting!** ⭐
+*"It's not about being perfect. It's about making a difference — one commit at a time."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=kunal20-sus&color=C41E1E&style=flat-square&label=Web+Visitors)
 
 </div>
