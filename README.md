@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/kunal20-sus/kunal20-sus/main/assets/spiderman-hanging.gif" width="190" alt="Spider-Man Hanging From Web"/>
+
 # 🕷️ Hi, I'm Kunal Kumar! 🕸️
 
 ### *"With great code comes great responsibility."*
@@ -15,12 +17,24 @@
 
 ## 🕸️ Origin Story (About Me)
 
-> Passionate developer swinging across lines of code, crafting clean solutions, and constantly leveling up my software engineering skills. Always ready to build, debug, and solve real-world problems.
-
-- 🕷️ **Software Development** — Crafting clean, efficient, and maintainable code.
-- 🌆 **Problem Solving** — Tackling complex challenges and building real-world projects.
-- 🎯 **Continuous Learning** — Exploring new technologies, frameworks, and modern architecture.
-- 🛡️ **Open Source & Collaboration** — Believer in peer learning and community-driven development.
+<table>
+  <tr>
+    <td width="72%" valign="top">
+      <p>
+        Passionate developer swinging across lines of code, crafting clean solutions, and constantly leveling up my software engineering skills. Always ready to build, debug, and solve real-world problems.
+      </p>
+      <ul>
+        <li>🕷️ <b>Software Development</b> — Crafting clean, efficient, and maintainable code.</li>
+        <li>🌆 <b>Problem Solving</b> — Tackling complex challenges and building real-world projects.</li>
+        <li>🎯 <b>Continuous Learning</b> — Exploring new technologies, frameworks, and modern architecture.</li>
+        <li>🛡️ <b>Open Source & Collaboration</b> — Believer in peer learning and community-driven development.</li>
+      </ul>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/kunal20-sus/kunal20-sus/main/assets/spiderman-swinging.gif" width="160" alt="Spider-Man Using Webs"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
